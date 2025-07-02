@@ -23,9 +23,10 @@ A powerful, terminal-based tool to scrape followers from any public Instagram ac
 
 ```bash
 pip install -r requirements.txt
+```
 
 requirements.txt should include:
-
+```
 requests
 rich
 user_agent
@@ -65,7 +66,7 @@ Each line will contain one follower's Instagram username.
 ---
 
 📸 Screenshot
-
+```
 ┌─────────────────────────────────────────────┐
 │        Instagram Follower Scraper           │
 └─────────────────────────────────────────────┘
@@ -75,7 +76,7 @@ PASSWORD: ***********
 Scraping followers... 203 collected
 ✓ Successfully saved 203 followers to followers_target_1720189291.txt
 
-
+```
 ---
 
 ⚠️ Disclaimer
