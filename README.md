@@ -36,7 +36,7 @@ user_agent
 
 🛠 Usage
 
-python scr_f.py
+python app.py
 
 1. Enter your Instagram username and password when prompted.
 
